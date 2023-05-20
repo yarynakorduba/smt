@@ -1,0 +1,1 @@
+Please store both twitter datasets 'twitter_sentiment_data.csv' and 'climate_change_tweets.csv' here in this folder :)
