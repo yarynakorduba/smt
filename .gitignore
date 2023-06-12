@@ -2,3 +2,5 @@
 
 *_res/*.json
 *_res/*.ftr
+
+**/.DS_Store
